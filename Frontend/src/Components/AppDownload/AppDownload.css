@@ -1,0 +1,17 @@
+.app-download{
+    margin: auto auto;
+    margin-top: 50px;
+    font-size: max(3vw,20px);
+    text-align: center;
+    font-weight: 500;
+}.app-download-plaforms{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.app-download-plaforms img:hover{
+    transform: scale(1.02);
+    cursor: pointer;
+   
+}
